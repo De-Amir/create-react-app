@@ -13,6 +13,7 @@ If something doesn’t work, please [file an issue](https://github.com/facebook/
 ```sh
 npx create-react-app my-app
 cd my-app
+
 npm start
 ```
 
